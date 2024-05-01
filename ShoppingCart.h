@@ -1,3 +1,5 @@
+//Alexander Rupp
+
 #ifndef SHOPPING_CART_H
 #define SHOPPING_CART_H
 

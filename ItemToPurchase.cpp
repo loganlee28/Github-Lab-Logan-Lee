@@ -1,3 +1,5 @@
+//Alexander Rupp
+
 #include <iostream>
 #include <string>
 #include "ItemToPurchase.h"
